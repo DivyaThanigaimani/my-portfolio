@@ -48,8 +48,9 @@ export const workExperiences = [
     location: "CHENNAI, INDIA",
     description: [
       "Collaborated with cross-functional teams to design and develop RESTful APIs using Java and Spring Boot.",
-      "Owned development of HCM Solution that involved setting and tracking employee goals, conducting performance reviews, and providing feedback to employees using Java, React.",
-      "Designed and established a robust Continuous Integration/Continuous Deployment (CI/CD) pipeline using Jenkins, automating the build, test, and deployment processes",
+      "Managed the entire system development process, overseeing design, coding, testing, and deployment stages to guarantee seamless integration adhering to the complete software development life cycle.",
+      "Took the initiative to lead in the development of a critical module using Java and UI technologies like JavaScript and React, showcasing self-motivation and an ability to drive projects forward independently, resulted in a 20% improvement in system performance.",
+      "Developed Test-Driven Development (TDD) methodologies, reusable code and libraries utilizing Java and JavaScript.",
     ],
   },
   {
@@ -85,10 +86,10 @@ export const projectsData = [
     websiteLink: "https://divyat-quotegenerator.netlify.app/",
   },
   {
-    title: "ADMIN DASHBOARD(React)",
+    title: "ESG Software(React,Java)",
     des: " React Admin Dashboard is a web-based project that provides a user-friendly interface for managing and visualizing data in a dynamic way. Users can interact with these components to perform tasks such as filtering, sorting, and searching data.",
     src: projectOne,
-    githubLink: "https://github.com/DivyaThanigaimani/DashBoard",
+    githubLink: "https://github.com/DivyaThanigaimani/ESG-FrontEnd/tree/master/create-react-app",
     
   },
   {
